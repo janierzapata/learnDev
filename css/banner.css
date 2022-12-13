@@ -1,0 +1,40 @@
+.banner {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  text-align: center;
+  background: linear-gradient(
+    #851449,
+    #c02b71,
+    #e4bbce
+  );
+}
+
+.banner h1 {
+  margin: 0;
+  font-size: 3rem;
+  color: #fff;
+  text-shadow: 0 0 1rem #000;
+}
+
+.banner p {
+  font-size: 1.5rem;
+  color: #fff;
+  text-shadow: 0 0 0.6rem #000;
+}
+
+.banner button {
+  display: inline-block;
+  border: none;
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  color: #fff;
+  text-decoration: none;
+  background-color: #c53177;
+  border-radius: 1rem;
+  box-shadow: 0 0.2rem 0.4rem #000;
+}
+
+.banner button:hover {
+  background-color: #d65b95;
+}

@@ -1,0 +1,29 @@
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 9rem;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+
+.footer-header{
+    height: 80%;
+    font-size: 2rem;
+    background-color: #C53177;
+
+}
+.copyrigth{
+height: 20%;
+    font-size: 1.2rem;
+    background-color:#D65B95 ;
+}
+
+.copyrigth p{
+    margin: 0;
+    padding: 0;
+    line-height: 2rem;
+}

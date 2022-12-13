@@ -1,0 +1,31 @@
+.nav{
+    background-color: #C53177;
+    height: 5rem ;
+    color: #fff;
+    list-style: none;
+    text-align: center;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.content-center{
+    justify-content: center;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.item-container{
+    align-items: center;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: .2rem;
+}
